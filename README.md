@@ -8,7 +8,7 @@
 
 > `p1m` — это [Pavlov 1st Medical](http://en.1spbgmu.ru). `ortho`, понятное дело, это ортопедия, травматология и ортопедия, ортопедическая хирургия и все такое.
 
-Авторы: [@pussiatoday](https://github.com/pussiatoday)
+> Авторы: [@pussiatoday](https://github.com/pussiatoday)
 
 ## 4 Техническая часть
 
