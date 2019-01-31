@@ -12,7 +12,7 @@
 
 ## 5 Рекомендуемая литература
 
-Studying a Study and Testing a Test Ричарда Ригелмана в 5-м издании.
+* Studying a Study and Testing a Test Ричарда Ригелмана в 5-м издании.
 
 * CDC Principles of Epidemiology, веб-издание.
 Введение в эпидемиологию от CDC (Centers for Disease Control and Prevention — Роспотребнадзор в США).
