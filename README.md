@@ -10,6 +10,26 @@
 
 > Авторы: [@pussiatoday](https://github.com/pussiatoday)
 
+## 5 Рекомендуемая литература
+
+Studying a Study and Testing a Test Ричарда Ригелмана в 5-м издании.
+
+* CDC Principles of Epidemiology, веб-издание.
+Введение в эпидемиологию от CDC (Centers for Disease Control and Prevention — Роспотребнадзор в США).
+
+* Biostat Handbook доктора Джона Макдоналда.
+
+* Cochrane Handbook 5.1 и главы из черновой редакции 6-го издания.
+
+* PRISMA с расширениями.
+Доступно на EQUATOR Network. 
+
+* CONSORT с расширениями.
+Доступно на EQUATOR Network.
+
+* PubMed Help.
+Справочная документация к поисковому интерфейсу PubMed.
+
 ## 4 Техническая часть
 
 ## 4.8 Где пишутся методы по репозиторию
