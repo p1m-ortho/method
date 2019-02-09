@@ -117,3 +117,12 @@
 ## Git/GitHub: что мы умеем
 
 Добавить содержание сбора по основам Git/GitHub 01.02.2019 (ССС).
+
+* Ветвление.
+* `git commit --amend`, `git push --force`.
+* Коммиты в соавторстве.
+* [Git изнутри](https://git-scm.com/book/ru/v2/Git-изнутри-Сантехника-и-Фарфор).
+* [Черри-пикинг](https://github.com/p1m-ortho/xk-p1m-ortho-method/commit/f367f8464f793c58474d8f25d9b3f0d9fc87695d).
+* GPG-подписи.
+* Раздельное закоммичивание изменений, `git blame`, `git stash`.
+* _Продолжение следует_.
