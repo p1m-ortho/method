@@ -125,4 +125,5 @@
 * [Черри-пикинг](https://github.com/p1m-ortho/xk-p1m-ortho-method/commit/f367f8464f793c58474d8f25d9b3f0d9fc87695d).
 * GPG-подписи.
 * Раздельное закоммичивание изменений, `git blame`, `git stash`.
+* Git CLI, GUI, расширения для текстовых редакторов
 * _Продолжение следует_.
