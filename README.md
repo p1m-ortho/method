@@ -38,23 +38,33 @@
 
 ## 5 Рекомендуемая литература
 
-* Studying a Study and Testing a Test Ричарда Ригелмана в 5-м издании.
+* _Studying a Study and Testing a Test_ Ричарда Ригелмена в 5-м издании.
 
-* CDC Principles of Epidemiology, веб-издание.
-Введение в эпидемиологию от CDC (Centers for Disease Control and Prevention — Роспотребнадзор в США).
+* [CDC Principles of Epidemiology](https://www.cdc.gov/ophss/csels/dsepd/ss1978/index.html), веб-издание.
 
-* Biostat Handbook доктора Джона Макдоналда.
+    Введение в эпидемиологию от CDC (Centers for Disease Control and Prevention — Роспотребнадзор в США).
 
-* Cochrane Handbook 5.1 и главы из черновой редакции 6-го издания.
+* [Biostat Handbook](http://www.biostathandbook.com) доктора Джона Макдоналда.
+
+* [Cochrane Handbook 5.1](http://handbook-5-1.cochrane.org) и **[главы из черновой редакции 6-го издания](https://training.cochrane.org/version-6)** — важное чтение! чтобы получить доступ, потребуется [регистрация на сайте Кокрейна](https://account.cochrane.org/public/signup.jsp), и лучше сразу сделать ее, потому что она потребуется также и для доступа к [кокрейновским специализированным регистрам исследований](http://crso.cochrane.org).
+
+* Руководство [MECIR](https://community.cochrane.org/mecir-manual).
+
+    Методологические стандарты Кокрейна по (а) проведению и (б) написанию систематических обзоров литературы.
+    
+    Четко предписывают, что обязательно **должно** быть в качественном сисобзоре.
 
 * PRISMA с расширениями.
-Доступно на EQUATOR Network. 
+
+    Доступно на [EQUATOR Network](http://www.equator-network.org). 
 
 * CONSORT с расширениями.
-Доступно на EQUATOR Network.
 
-* PubMed Help.
-Справочная документация к поисковому интерфейсу PubMed.
+    Доступно на [EQUATOR Network](http://www.equator-network.org).
+
+* [PubMed Help](https://www.ncbi.nlm.nih.gov/books/NBK3827/).
+
+    Справочная документация к поисковому интерфейсу PubMed.
 
 ## 4 Техническая часть
 
