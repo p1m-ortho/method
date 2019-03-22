@@ -46,7 +46,7 @@
 
 * [Biostat Handbook](http://www.biostathandbook.com) доктора Джона Макдоналда.
 
-* [Cochrane Handbook 5.1](http://handbook-5-1.cochrane.org) и **[главы из черновой редакции 6-го издания](https://training.cochrane.org/version-6)** — важное чтение! чтобы получить доступ, потребуется [регистрация на сайте Кокрейна](https://account.cochrane.org/public/signup.jsp), и лучше сразу сделать ее, потому что она потребуется также и для доступа к [кокрейновским специализированным регистрам исследований](http://crso.cochrane.org).
+* [Cochrane Handbook 6, черновая редакция](https://training.cochrane.org/version-6)** — важное чтение! чтобы получить доступ, потребуется [регистрация на сайте Кокрейна](https://account.cochrane.org/public/signup.jsp), и лучше сразу сделать ее, потому что она потребуется также и для доступа к [кокрейновским специализированным регистрам исследований](http://crso.cochrane.org).
 
 * Руководство [MECIR](https://community.cochrane.org/mecir-manual).
 
