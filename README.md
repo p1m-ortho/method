@@ -65,6 +65,8 @@
 * [PubMed Help](https://www.ncbi.nlm.nih.gov/books/NBK3827/).
 
     Справочная документация к поисковому интерфейсу PubMed.
+    
+* [GRADE Handbook](https://gdt.gradepro.org/app/handbook/handbook.html).
 
 ## 4 Техническая часть
 
