@@ -61,6 +61,10 @@
 * CONSORT с расширениями.
 
     Доступно на [EQUATOR Network](http://www.equator-network.org).
+    
+* STROBE с расширениями, в том числе RECORD.
+
+    Доступно на [EQUATOR Network](http://www.equator-network.org).
 
 * [PubMed Help](https://www.ncbi.nlm.nih.gov/books/NBK3827/).
 
