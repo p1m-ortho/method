@@ -13,6 +13,18 @@
 Редакторы: ПВЖ, ССС.
 ```
 
+## 8 Английский: английский? американский? австралийский?..
+
+Везде по умолчанию предпочитаем стандартное американское написание, так же как и [в контролируемом словаре MeSH](https://www.nlm.nih.gov/mesh/intro_preface.html), хотя возможны обоснованные отступления.
+
+Цитата оттуда на этот счет:
+
+> Spelling:
+>
+> American rather than British spelling is preferred: thus Anesthesia rather than Anaesthesia. Occasionally this leads to difficulties. For example, Amoeba is used rather than Ameba because that form of the name is preferred in taxonomical nomenclature' Nevertheless, when we name the disease, we say Amebiasis rather than Amoebiasis.
+
+То же касается грамматики, произношения и других аспектов английского языка: для единообразия предпочитаем и здесь стандартный американский английский (Common US English).
+
 ## 7 The Plain Person’s Guide to Plain Text Social Science
 
 Случайно оказалось, что [Кирен Хили](http://kieranhealy.org) пришел к _пугающе_ похожей организации рабочего процесса на ту, к которой пришли и мы в p1m-ortho, что изложил [в своем небольшом пособии](http://plain-text.co).
