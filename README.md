@@ -168,7 +168,7 @@ GitHub делает именно это: при подаче коммита он
 | Статья в журнале            | Journal article             | XJ                 | 
 | Доклад                      | Presentation                | XP                 | 
 | **Организация**             | **Business administration** | **XB**             | 
-| **Обучение**                | **Klassenmanagement**          | **XK**             | 
+| **Обучение**                | **Klassenführung**          | **XK**             | 
 | **Программное обеспечение** | **Software**                | **XS**             |
 | Частное                                       | Private                               | ZZ |
 | В работе                                      | In progress                           | XI |
