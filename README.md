@@ -4,10 +4,28 @@
 
 > Методичку предлагается читать с конца. Идея — в том, чтобы ее разделы выстраивались в хронологическом порядке, по мере их добавления, и наиболее свежие сразу оказывались на виду, а наиболее старые как наиболее фундаментальные, как и полагается, оказывались в фундаменте. Как видно из истории коммитов, методичка — пока в очень и очень черновом варианте, и со временем может быть полностью переписана.
 
+> `p1m` — это просто. `ortho`, понятное дело, это ортопедия, травматология и ортопедия, ортопедическая хирургия и все такое.
+
 ```
 Авторы: ПВЖ.
 Редакторы: ПВЖ, ССС.
 ```
+
+## 8 Английский: английский? американский? австралийский?..
+
+Везде по умолчанию предпочитаем стандартное американское написание, так же как и [в контролируемом словаре MeSH](https://www.nlm.nih.gov/mesh/intro_preface.html), хотя возможны обоснованные отступления.
+
+Цитата оттуда на этот счет:
+
+> Spelling:
+>
+> American rather than British spelling is preferred: thus Anesthesia rather than Anaesthesia. Occasionally this leads to difficulties. For example, Amoeba is used rather than Ameba because that form of the name is preferred in taxonomical nomenclature' Nevertheless, when we name the disease, we say Amebiasis rather than Amoebiasis.
+
+То же касается грамматики, произношения и других аспектов английского языка: для единообразия предпочитаем и здесь стандартный американский английский (Common US English).
+
+## 7 The Plain Person’s Guide to Plain Text Social Science
+
+Случайно оказалось, что [Кирен Хили](http://kieranhealy.org) пришел к _пугающе_ похожей организации рабочего процесса на ту, к которой пришли и мы в p1m-ortho, что изложил [в своем небольшом пособии](http://plain-text.co).
 
 ## 6 Локальные сборы
 
@@ -59,10 +77,16 @@
 * CONSORT с расширениями.
 
     Доступно на [EQUATOR Network](http://www.equator-network.org).
+    
+* STROBE с расширениями, в том числе RECORD.
+
+    Доступно на [EQUATOR Network](http://www.equator-network.org).
 
 * [PubMed Help](https://www.ncbi.nlm.nih.gov/books/NBK3827/).
 
     Справочная документация к поисковому интерфейсу PubMed.
+    
+* [GRADE Handbook](https://gdt.gradepro.org/app/handbook/handbook.html).
 
 ## 4 Техническая часть
 
