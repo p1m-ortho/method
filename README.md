@@ -60,7 +60,9 @@
 
 * [Biostat Handbook](http://www.biostathandbook.com) доктора Джона Макдоналда.
 
-* [Cochrane Handbook 6, черновая редакция](https://training.cochrane.org/version-6)** — важное чтение! чтобы получить доступ, потребуется [регистрация на сайте Кокрейна](https://account.cochrane.org/public/signup.jsp), и лучше сразу сделать ее, потому что она потребуется также и для доступа к [кокрейновским специализированным регистрам исследований](http://crso.cochrane.org).
+* Более ядреное «[Введение в теорию вероятностей и матстатистику](https://www.probabilitycourse.com)» от доктора Хоссейна Пишро-Ника.
+
+* [Cochrane Handbook 5.1](http://handbook-5-1.cochrane.org) и **[главы из черновой редакции 6-го издания](https://training.cochrane.org/version-6)** — важное чтение! чтобы получить доступ, потребуется [регистрация на сайте Кокрейна](https://account.cochrane.org/public/signup.jsp), и лучше сразу сделать ее, потому что она потребуется также и для доступа к [кокрейновским специализированным регистрам исследований](http://crso.cochrane.org).
 
 * Руководство [MECIR](https://community.cochrane.org/mecir-manual).
 
@@ -159,6 +161,7 @@ GitHub делает именно это: при подаче коммита он
 |-----------------------------|-----------------------------|--------------------| 
 | Весь мир                    | Worldwide                   | AA                 | 
 | Обзор литературы            | Review                      | XR                 | 
+| **Работа по методологии** | **Methodologic research**                | **QM**             |
 | Клиническое исследование    | Clinical study              | XC                 | 
 | Тезис                       | Abstract                    | XA                 | 
 | Диссертация                 | Thesis                      | XT                 | 
@@ -167,6 +170,18 @@ GitHub делает именно это: при подаче коммита он
 | **Организация**             | **Business administration** | **XB**             | 
 | **Обучение**                | **Klassenleitung**          | **XK**             | 
 | **Программное обеспечение** | **Software**                | **XS**             |
+| Частное                                       | Private                               | ZZ |
+| В работе                                      | In progress                           | XI |
+| Отложено                                      | Deterred                              | XD |
+| Поисковый запрос                              | Query                                 | QS |
+| Каталог со ссылками                           | Umbrella directory                    | XW |
+| Устаревшее                                    | Deprecated                            | XX |
+| Несортированная литература (не рекомендуется) | Unsorted literature (not recommended) | XL |
+| Экспертное заключение                         | Expert report                         | XE |
+| История болезни                               | Medical record                        | XM |
+| Серая литература | Gray literature                | XG             |
+| **Собрано несистематически, не проследить на блок-схеме** | **Flowless**                | **XF**             |
+| **Протокол** | **Protocol** | **QP** | 
 
 * Кроме стран также нередко возникает необходимость упомянуть в названии город. Тогда я пользуюсь [сокращениями ИАТА — международные коды-обозначения аэропортов](https://www.iata.org/publications/Pages/code-search.aspx). Или см. в поисковике по (город + код IATA).
 * Еще по поводу сокращений. Есть обширнейший словарь сокращений слов под названием [LTWA ISSN](https://www.issn.org/ru/services-et-prestations/services-en-ligne/acces-a-la-ltwa/). Им пользуются, например, при сокращении названий журналов. Какое-нибудь _Int J Surg_ — это по этому словарю. Когда в каком-то названии хотите сократить слово, пользуйтесь и вы этим словарем.
